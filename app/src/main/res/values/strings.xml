@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppcampeonatoSkate</string>
+    <string name="action_new">Novo Skatista</string>
+    <string name="skatistas">Skatistas</string>
+    <string name="action_delete">Excluir Skatistas</string>
+    <string name="selecione">Selecione um Skatista</string>
+    <string name="nodiscipline">Nenhum Skatista Selecionado</string>
+</resources>

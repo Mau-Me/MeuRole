@@ -1,4 +1,4 @@
-package com.unebIhc.appcampeonatoskate;
+package com.mclohrk.appcampeonatoskate;
 
 public class Onda {
     private  Integer id;

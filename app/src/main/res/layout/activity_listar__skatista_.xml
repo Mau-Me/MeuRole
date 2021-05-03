@@ -5,7 +5,7 @@
     android:id="@+id/lista_skatista"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ListarSkatistaActivity">
+    tools:context=".ListarSurfistaActivity">
 
     <ListView
         android:id="@+id/listarSkatistas"

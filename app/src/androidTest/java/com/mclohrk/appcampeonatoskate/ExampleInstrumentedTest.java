@@ -1,4 +1,4 @@
-package com.unebIhc.appcampeonatoskate;
+package com.mclohrk.appcampeonatoskate;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.unebIhc.appcampeonatoskate", appContext.getPackageName());
+        assertEquals("com.mclohrk.appcampeonatoskate", appContext.getPackageName());
     }
 }

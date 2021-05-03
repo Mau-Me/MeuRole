@@ -1,4 +1,4 @@
-package com.unebIhc.appcampeonatoskate;
+package com.mclohrk.appcampeonatoskate;
 
 import org.junit.Test;
 

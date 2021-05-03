@@ -1,4 +1,4 @@
-package com.unebIhc.appcampeonatoskate;
+package com.mclohrk.appcampeonatoskate;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BateriaSkatistListActivity extends AppCompatActivity {
+class BateriaSkatistListActivity extends AppCompatActivity {
 
     static Bateria bt;
     private ListView listview;
@@ -24,7 +24,7 @@ public class BateriaSkatistListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         ArrayList<Bateria> bt = new ArrayList<>();
-        setContentView(R.layout.activity_bateria_skatist_list);
+        setContentView(R.layout.activity_bateria_skatista_list);
         Intent intent = getIntent();
         String parametro = (String) intent.getSerializableExtra("Bateria: ");
         TextView nome = findViewById(R.id.textView2);

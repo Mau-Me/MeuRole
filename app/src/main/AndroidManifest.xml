@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mclohrk.appcampeonatoskate">
+    package="com.unebIhc.appcampeonatoskate">
 
     <application
         android:allowBackup="true"
@@ -9,13 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".BateriaSkatistListActivity"></activity>
-        <activity android:name=".ListarBateriaActivity" />
-        <activity android:name=".BateriaActivity" />
-        <activity android:name=".ListarSkatistaActivity" />
-        <activity android:name=".Nota_Activity" />
-        <activity android:name=".SkatistaActivity" />
-        <activity android:name=".PrincipalActivity">
+        <activity android:name="com.unebIhc.appcampeonatoskate.BateriaSkatistListActivity"></activity>
+        <activity android:name="com.unebIhc.appcampeonatoskate.ListarBateriaActivity" />
+        <activity android:name="com.unebIhc.appcampeonatoskate.BateriaActivity" />
+        <activity android:name="com.unebIhc.appcampeonatoskate.ListarSkatistaActivity" />
+        <activity android:name="com.unebIhc.appcampeonatoskate.Nota_Activity" />
+        <activity android:name="com.unebIhc.appcampeonatoskate.SkatistaActivity" />
+        <activity android:name="com.unebIhc.appcampeonatoskate.PrincipalActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

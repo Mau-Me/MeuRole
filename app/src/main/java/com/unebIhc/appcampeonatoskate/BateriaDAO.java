@@ -1,15 +1,12 @@
-package com.mclohrk.appcampeonatoskate;
+package com.unebIhc.appcampeonatoskate;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import androidx.annotation.Nullable;
-
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.LongFunction;
 
 public class BateriaDAO {
 

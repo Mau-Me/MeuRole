@@ -1,4 +1,4 @@
-package com.mclohrk.appcampeonatoskate;
+package com.unebIhc.appcampeonatoskate;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

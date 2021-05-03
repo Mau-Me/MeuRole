@@ -1,4 +1,4 @@
-package com.mclohrk.appcampeonatoskate;
+package com.unebIhc.appcampeonatoskate;
 
 import androidx.appcompat.app.AppCompatActivity;
 
